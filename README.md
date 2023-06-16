@@ -1,2 +1,2 @@
-# Alumni-20230616T074710Z-001
+# Alumni
 2023 SIST
